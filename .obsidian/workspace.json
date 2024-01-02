@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d43c48311660540",
+        "id": "6989c7cb97dc94d6",
         "type": "tabs",
         "children": [
           {
-            "id": "271240263a80dd33",
+            "id": "25948dbf9349aa98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Todolist/2024.01.02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Todolist/2024.01.02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Todolist/2024.01.02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Todolist/2024.01.02.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "271240263a80dd33",
+  "active": "25948dbf9349aa98",
   "lastOpenFiles": [
-    "2024-01-02.md",
     "README.md",
+    "2024-01-02.md",
     "Todolist/2024.01.02.md",
     "Todolist"
   ]
