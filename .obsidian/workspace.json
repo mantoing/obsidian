@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03789d8e8e41eea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-01-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "485f7cfba01801c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024.01.02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13fbd11ec4f40903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next.js 기본강의/0.RoadMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83d4ab6bd67e9a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next.js 기본강의/1. NextJs를 시작해보자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024.01.02.md",
+                "file": "Next.js 기본강의/1. NextJs를 시작해보자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024.01.02.md",
+                "file": "Next.js 기본강의/1. NextJs를 시작해보자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +174,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024.01.02.md"
+                "file": "Next.js 기본강의/1. NextJs를 시작해보자.md"
               }
+            }
+          },
+          {
+            "id": "28a302fc4bf5097f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "d768a87b83f8cfcc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -138,19 +205,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25948dbf9349aa98",
+  "active": "83d4ab6bd67e9a89",
   "lastOpenFiles": [
-    "README.md",
-    "2024-01-02.md",
+    "Next.js 기본강의/0.RoadMap.md",
+    "Next.js 기본강의/1. NextJs를 시작해보자.md",
     "Todolist/2024.01.02.md",
+    "Next.js 기본강의",
+    "Todolist/2024-01-04.md",
+    "test.md",
+    "README.md",
+    "templates/Daily Note Template.md",
+    "templates",
+    "2024-01-02.md",
     "Todolist"
   ]
 }
