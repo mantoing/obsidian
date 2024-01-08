@@ -4,235 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6989c7cb97dc94d6",
+        "id": "d61dbd88ce881ba4",
         "type": "tabs",
         "children": [
           {
-            "id": "25948dbf9349aa98",
+            "id": "2d6f63d65645af5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024.01.02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03789d8e8e41eea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todolist/2024-01-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "485f7cfba01801c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todolist/2024.01.02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13fbd11ec4f40903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next.js 기본강의/0.RoadMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83d4ab6bd67e9a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next.js 기본강의/1. NextJs를 시작해보자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "209e1cd661eb588a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todolist/2024-01-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b8b4fe90faff301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/0. 알고리즘 목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66dbbdded183378a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/1. 브루트포스 (brute force).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b23612b006cd808c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/1. 브루트포스 (brute force).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7e8222f552000b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/2. 백트래킹.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a283710542ce3b2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/3.  DFS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a01e822944b1e172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next.js 기본강의/0.RoadMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f31856b9cfa35ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next.js 기본강의/0.RoadMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81f7910b2f2c0cbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next.js 기본강의/3. Routing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91a4bdf265130930",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2a7d60de3f3c92d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dart/0. 목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2402e59e77c5b0cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dart/1. 다트의 컴파일러.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6f4cdd99a14f1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dart/0. 목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a6e650882380382",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dart/3. 다트의 자료형.md",
+                "file": "Todolist/2024-01-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dart/3. 다트의 자료형.md",
+                "file": "Todolist/2024-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dart/3. 다트의 자료형.md",
+                "file": "Todolist/2024-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dart/3. 다트의 자료형.md"
+                "file": "Todolist/2024-01-08.md"
               }
             }
           },
@@ -380,28 +167,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a6e650882380382",
+  "active": "2d6f63d65645af5f",
   "lastOpenFiles": [
+    "Todolist/2024-01-08.md",
     "dart/0. 목차.md",
-    "dart/3. 다트의 자료형.md",
     "dart/1. 다트의 컴파일러.md",
+    "Next.js 기본강의/3. Routing.md",
+    "Next.js 기본강의/0.RoadMap.md",
+    "Algorithm/3.  DFS.md",
+    "Algorithm/2. 백트래킹.md",
+    "Algorithm/1. 브루트포스 (brute force).md",
+    "Algorithm/0. 알고리즘 목차.md",
+    "Todolist/2024-01-05.md",
+    "Next.js 기본강의/1. NextJs를 시작해보자.md",
+    "dart/3. 다트의 자료형.md",
     "dart/2. 다트의 변수.md",
     "dart",
-    "Next.js 기본강의/3. Routing.md",
     "Next.js 기본강의/4. css Modules.md",
-    "Next.js 기본강의/0.RoadMap.md",
     "Next.js 기본강의/2. library와 framework의 차이.md",
-    "Next.js 기본강의/1. NextJs를 시작해보자.md",
-    "Algorithm/1. 브루트포스 (brute force).md",
-    "Algorithm/2. 백트래킹.md",
-    "Algorithm/3.  DFS.md",
     "Algorithm/4. BFS.md",
-    "Algorithm/0. 알고리즘 목차.md",
     "Todolist/2024-01-07.md",
     "Todolist/2024.01.02.md",
     "Todolist/2024-01-06.md",
     "Todolist/2024-01-04.md",
-    "Todolist/2024-01-05.md",
     "templates/Daily Note Template.md",
     "Algorithm",
     "Next.js 기본강의",
