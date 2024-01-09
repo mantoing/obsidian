@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-01-08.md",
+                "file": "dart/3. 다트의 자료형.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bde403cb9cadeb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dart/4. list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bec6db45253ba1b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dart/4. list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80a0db917d0d75dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7576e5647a573d2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-01-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-01-08.md",
+                "file": "Todolist/2024-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-01-08.md",
+                "file": "Todolist/2024-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-01-08.md"
+                "file": "Todolist/2024-01-09.md"
               }
             }
           },
@@ -167,8 +216,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d6f63d65645af5f",
+  "active": "7576e5647a573d2c",
   "lastOpenFiles": [
+    "dart/4. list.md",
+    "7. set.md",
+    "6. map.md",
+    "dart/5. 변수를 사용하는 방법.md",
+    "dart/3. 다트의 자료형.md",
+    "Todolist/2024-01-09.md",
     "Todolist/2024-01-08.md",
     "dart/0. 목차.md",
     "dart/1. 다트의 컴파일러.md",
@@ -180,7 +235,6 @@
     "Algorithm/0. 알고리즘 목차.md",
     "Todolist/2024-01-05.md",
     "Next.js 기본강의/1. NextJs를 시작해보자.md",
-    "dart/3. 다트의 자료형.md",
     "dart/2. 다트의 변수.md",
     "dart",
     "Next.js 기본강의/4. css Modules.md",
@@ -193,10 +247,7 @@
     "templates/Daily Note Template.md",
     "Algorithm",
     "Next.js 기본강의",
-    "test.md",
-    "README.md",
     "templates",
-    "2024-01-02.md",
     "Todolist"
   ]
 }
