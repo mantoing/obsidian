@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/5. 소수를 찾는 알고리즘.md",
+                "file": "dart/8.  function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "100336fda334fe18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-01-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/5. 소수를 찾는 알고리즘.md",
+                "file": "Todolist/2024-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/5. 소수를 찾는 알고리즘.md",
+                "file": "Todolist/2024-01-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/5. 소수를 찾는 알고리즘.md"
+                "file": "Todolist/2024-01-11.md"
               }
             }
           },
@@ -240,21 +252,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f479917b3c7683d",
+  "active": "100336fda334fe18",
   "lastOpenFiles": [
-    "Algorithm/1. 브루트포스 (brute force).md",
-    "Algorithm/5. 소수를 찾는 알고리즘.md",
-    "Algorithm/2. 백트래킹.md",
+    "dart/9.  Dart Class.md",
+    "dart/0. 목차.md",
     "dart/8.  function.md",
-    "dart/5. 변수를 사용하는 방법.md",
     "Todolist/2024-01-11.md",
     "Todolist/2024-01-09.md",
+    "Todolist/2024-01-06.md",
+    "Algorithm/5. 소수를 찾는 알고리즘.md",
+    "Algorithm/1. 브루트포스 (brute force).md",
+    "Algorithm/2. 백트래킹.md",
+    "dart/5. 변수를 사용하는 방법.md",
     "dart/4. list.md",
     "dart/7. set.md",
     "dart/6. map.md",
     "dart/3. 다트의 자료형.md",
     "Todolist/2024-01-08.md",
-    "dart/0. 목차.md",
     "dart/1. 다트의 컴파일러.md",
     "Next.js 기본강의/3. Routing.md",
     "Next.js 기본강의/0.RoadMap.md",
@@ -267,8 +281,6 @@
     "Next.js 기본강의/4. css Modules.md",
     "Next.js 기본강의/2. library와 framework의 차이.md",
     "Algorithm/4. BFS.md",
-    "Todolist/2024-01-07.md",
-    "Todolist/2024.01.02.md",
     "Algorithm",
     "Next.js 기본강의",
     "templates",
