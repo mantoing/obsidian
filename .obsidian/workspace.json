@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next 공식/Pages and Layout.md",
+                "file": "Todolist/2024-01-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next 공식/Pages and Layout.md",
+                "file": "Todolist/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next 공식/Pages and Layout.md",
+                "file": "Todolist/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next 공식/Pages and Layout.md"
+                "file": "Todolist/2024-01-14.md"
               }
             }
           },
@@ -338,8 +338,9 @@
   },
   "active": "6c7186f9648a4707",
   "lastOpenFiles": [
-    "Next 공식/Defining Routes.md",
     "Next 공식/Pages and Layout.md",
+    "Todolist/2024-01-14.md",
+    "Next 공식/Defining Routes.md",
     "Next 공식/Intercepting Routes.md",
     "Next 공식/Project Structure.md",
     "Next 공식/Rouing.md",
@@ -364,7 +365,6 @@
     "Algorithm/1. 브루트포스 (brute force).md",
     "Algorithm/2. 백트래킹.md",
     "dart/5. 변수를 사용하는 방법.md",
-    "dart/4. list.md",
     "dart",
     "Algorithm",
     "Next.js 기본강의",
