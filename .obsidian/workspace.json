@@ -181,14 +181,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-01-14.md",
+                "file": "Next 공식/Pages and Layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1642d35702dc322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next 공식/Linking and Navigating.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-01-14.md",
+                "file": "Next 공식/Linking and Navigating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-01-14.md",
+                "file": "Next 공식/Linking and Navigating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-01-14.md"
+                "file": "Next 공식/Linking and Navigating.md"
               }
             }
           },
@@ -336,16 +348,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c7186f9648a4707",
+  "active": "f1642d35702dc322",
   "lastOpenFiles": [
     "Next 공식/Pages and Layout.md",
-    "Todolist/2024-01-14.md",
+    "Next 공식/Linking and Navigating.md",
+    "Next 공식/Rouing.md",
+    "Next 공식/Next 공식문서.md",
     "Next 공식/Defining Routes.md",
     "Next 공식/Intercepting Routes.md",
     "Next 공식/Project Structure.md",
-    "Next 공식/Rouing.md",
     "Next 공식/Parallel Routes.md",
-    "Next 공식/Next 공식문서.md",
+    "Todolist/2024-01-15.md",
+    "Todolist/2024-01-14.md",
     "templates/zettelkasten.md",
     "무제 파일.md",
     "무제 파일 1.md",
@@ -363,8 +377,6 @@
     "Todolist/2024-01-09.md",
     "Todolist/2024-01-06.md",
     "Algorithm/1. 브루트포스 (brute force).md",
-    "Algorithm/2. 백트래킹.md",
-    "dart/5. 변수를 사용하는 방법.md",
     "dart",
     "Algorithm",
     "Next.js 기본강의",
