@@ -205,14 +205,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next 공식/무제 파일.md",
+                "file": "Next 공식/Linking and Navigating.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7f0393fd8cd4222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next 공식/useRouter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae5ad9d2abe35362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next 공식/Dynamic Router.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afb11988928816b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next 공식/Loading.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4d182956de4327c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-01-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "540a34ca5c8914f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-01-16.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -278,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next 공식/무제 파일.md",
+                "file": "Todolist/2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next 공식/무제 파일.md",
+                "file": "Todolist/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next 공식/무제 파일.md"
+                "file": "Todolist/2024-01-16.md"
               }
             }
           },
@@ -360,15 +420,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f0839b1aa529029",
+  "active": "540a34ca5c8914f9",
   "lastOpenFiles": [
-    "Next 공식/Linking and Navigating.md",
-    "Next 공식/무제 파일.md",
+    "Todolist/2024.01.02.md",
     "Next 공식/Pages and Layout.md",
+    "Todolist/layout.js.md",
+    "Todolist/2024-01-16.md",
+    "Next 공식/Loading.js.md",
+    "Next 공식/fetching.md",
+    "Next 공식/Dynamic Router.md",
+    "Next 공식/useRouter.md",
+    "Next 공식/Linking and Navigating.md",
+    "Next 공식/Intercepting Routes.md",
+    "Next 공식/무제 파일.md",
     "Next 공식/Rouing.md",
     "Next 공식/Next 공식문서.md",
     "Next 공식/Defining Routes.md",
-    "Next 공식/Intercepting Routes.md",
     "Next 공식/Project Structure.md",
     "Next 공식/Parallel Routes.md",
     "Todolist/2024-01-15.md",
@@ -382,13 +449,6 @@
     "Next.js 기본강의/3. Routing.md",
     "Next.js 기본강의/2. library와 framework의 차이.md",
     "Todolist/2024-01-13.md",
-    "Todolist/2024-01-12.md",
-    "Algorithm/5. 소수를 찾는 알고리즘.md",
-    "Todolist/2024-01-11.md",
-    "dart/9.  Dart Class.md",
-    "dart/0. 목차.md",
-    "Todolist/2024-01-09.md",
-    "Todolist/2024-01-06.md",
     "dart",
     "Algorithm",
     "Next.js 기본강의",
