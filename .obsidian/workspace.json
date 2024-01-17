@@ -265,14 +265,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-01-16.md",
+                "file": "Todolist/2024-01-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20cb5442f4a614ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-01-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -338,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-01-16.md",
+                "file": "Todolist/2024-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-01-16.md",
+                "file": "Todolist/2024-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-01-16.md"
+                "file": "Todolist/2024-01-17.md"
               }
             }
           },
@@ -420,12 +432,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "540a34ca5c8914f9",
+  "active": "20cb5442f4a614ad",
   "lastOpenFiles": [
+    "Todolist/무제 파일.md",
+    "Todolist/2024-01-17.md",
+    "Todolist/2024-01-16.md",
     "Todolist/2024.01.02.md",
     "Next 공식/Pages and Layout.md",
     "Todolist/layout.js.md",
-    "Todolist/2024-01-16.md",
     "Next 공식/Loading.js.md",
     "Next 공식/fetching.md",
     "Next 공식/Dynamic Router.md",
@@ -447,8 +461,6 @@
     "dart/8.  function.md",
     "Next.js 기본강의/4. css Modules.md",
     "Next.js 기본강의/3. Routing.md",
-    "Next.js 기본강의/2. library와 framework의 차이.md",
-    "Todolist/2024-01-13.md",
     "dart",
     "Algorithm",
     "Next.js 기본강의",
