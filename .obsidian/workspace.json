@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-01-17.md",
+                "file": "Todolist/2024-01-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -350,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-01-17.md",
+                "file": "Todolist/2024-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-01-17.md",
+                "file": "Todolist/2024-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-01-17.md"
+                "file": "Todolist/2024-01-20.md"
               }
             }
           },
@@ -434,8 +434,11 @@
   },
   "active": "20cb5442f4a614ad",
   "lastOpenFiles": [
-    "Todolist/무제 파일.md",
+    "Todolist/2024-01-18.md",
+    "Todolist/2024-01-20.md",
+    "스크린샷 2024-01-18 오후 9.13.58.png",
     "Todolist/2024-01-17.md",
+    "Todolist/무제 파일.md",
     "Todolist/2024-01-16.md",
     "Todolist/2024.01.02.md",
     "Next 공식/Pages and Layout.md",
@@ -459,8 +462,6 @@
     "무제 파일 1.md",
     "Next 공식",
     "dart/8.  function.md",
-    "Next.js 기본강의/4. css Modules.md",
-    "Next.js 기본강의/3. Routing.md",
     "dart",
     "Algorithm",
     "Next.js 기본강의",
