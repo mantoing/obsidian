@@ -277,14 +277,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-01-21.md",
+                "file": "Todolist/todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ed198d46536106e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-01-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32defd34fe5b52c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-01-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -350,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-01-21.md",
+                "file": "Todolist/2024-01-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-01-21.md",
+                "file": "Todolist/2024-01-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-01-21.md"
+                "file": "Todolist/2024-01-23.md"
               }
             }
           },
@@ -432,18 +456,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20cb5442f4a614ad",
+  "active": "32defd34fe5b52c9",
   "lastOpenFiles": [
-    "Todolist/2024-01-20.md",
+    "Todolist/todo.md",
+    "Next 공식/layout.js.md",
+    "Todolist/2024-01-04.md",
+    "Todolist/2024-01-23.md",
     "Todolist/2024-01-21.md",
+    "Todolist/2024-01-20.md",
     "Todolist/2024-01-18.md",
     "스크린샷 2024-01-18 오후 9.13.58.png",
     "Todolist/2024-01-17.md",
-    "Todolist/무제 파일.md",
     "Todolist/2024-01-16.md",
     "Todolist/2024.01.02.md",
     "Next 공식/Pages and Layout.md",
-    "Todolist/layout.js.md",
     "Next 공식/Loading.js.md",
     "Next 공식/fetching.md",
     "Next 공식/Dynamic Router.md",
@@ -459,8 +485,6 @@
     "Todolist/2024-01-15.md",
     "Todolist/2024-01-14.md",
     "templates/zettelkasten.md",
-    "무제 파일.md",
-    "무제 파일 1.md",
     "Next 공식",
     "dart",
     "Algorithm",
