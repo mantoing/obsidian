@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-01-23.md",
+                "file": "Todolist/2024-01-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -374,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-01-23.md",
+                "file": "Todolist/2024-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-01-23.md",
+                "file": "Todolist/2024-01-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -414,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-01-23.md"
+                "file": "Todolist/2024-01-24.md"
               }
             }
           },
@@ -458,10 +458,11 @@
   },
   "active": "32defd34fe5b52c9",
   "lastOpenFiles": [
+    "Todolist/2024-01-23.md",
+    "Todolist/2024-01-24.md",
     "Todolist/todo.md",
     "Next 공식/layout.js.md",
     "Todolist/2024-01-04.md",
-    "Todolist/2024-01-23.md",
     "Todolist/2024-01-21.md",
     "Todolist/2024-01-20.md",
     "Todolist/2024-01-18.md",
@@ -484,7 +485,6 @@
     "Next 공식/Parallel Routes.md",
     "Todolist/2024-01-15.md",
     "Todolist/2024-01-14.md",
-    "templates/zettelkasten.md",
     "Next 공식",
     "dart",
     "Algorithm",
