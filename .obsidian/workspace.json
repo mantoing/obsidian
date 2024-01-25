@@ -4,311 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d61dbd88ce881ba4",
+        "id": "524ef1380ec42e9b",
         "type": "tabs",
         "children": [
           {
-            "id": "2d6f63d65645af5f",
+            "id": "7d8d5cd46142e890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dart/3. 다트의 자료형.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bde403cb9cadeb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dart/4. list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bec6db45253ba1b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dart/4. list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80a0db917d0d75dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dart/6. map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7576e5647a573d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dart/5. 변수를 사용하는 방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea50b59d91ea47bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/1. 브루트포스 (brute force).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f479917b3c7683d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dart/8.  function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c583567fd7fc4061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/zettelkasten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42593b25a80f7bf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Next 공식문서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e83a4c579756768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Project Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbf194fecb0b7315",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Rouing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c72fc9929073a3c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Parallel Routes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5f993fd23757c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Rouing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b50b1b78e6051493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Defining Routes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c7186f9648a4707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Pages and Layout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1642d35702dc322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Linking and Navigating.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f0839b1aa529029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Linking and Navigating.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7f0393fd8cd4222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/useRouter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae5ad9d2abe35362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Dynamic Router.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afb11988928816b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next 공식/Loading.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4d182956de4327c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todolist/2024-01-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "540a34ca5c8914f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todolist/2024-01-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20cb5442f4a614ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todolist/todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ed198d46536106e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todolist/2024-01-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32defd34fe5b52c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todolist/2024-01-24.md",
+                "file": "recoil 공식문서/3. Selector.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 24
+        ]
       }
     ],
     "direction": "vertical"
@@ -374,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-01-24.md",
+                "file": "recoil 공식문서/3. Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-01-24.md",
+                "file": "recoil 공식문서/3. Selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -414,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-01-24.md"
+                "file": "recoil 공식문서/3. Selector.md"
               }
             }
           },
@@ -456,35 +167,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32defd34fe5b52c9",
+  "active": "7d8d5cd46142e890",
   "lastOpenFiles": [
-    "Todolist/2024-01-23.md",
-    "Todolist/2024-01-24.md",
-    "Todolist/todo.md",
-    "Next 공식/layout.js.md",
+    "recoil 공식문서/4. RecoilRoot.md",
+    "recoil 공식문서/2. Atoms.md",
+    "recoil 공식문서/1. Recoil의 기본개념.md",
+    "recoil 공식문서/목차.md",
+    "recoil 공식문서/3. Selector.md",
+    "무제 파일.canvas",
+    "Todolist/2024-01-25.md",
     "Todolist/2024-01-04.md",
-    "Todolist/2024-01-21.md",
-    "Todolist/2024-01-20.md",
-    "Todolist/2024-01-18.md",
-    "스크린샷 2024-01-18 오후 9.13.58.png",
     "Todolist/2024-01-17.md",
     "Todolist/2024-01-16.md",
-    "Todolist/2024.01.02.md",
-    "Next 공식/Pages and Layout.md",
     "Next 공식/Loading.js.md",
-    "Next 공식/fetching.md",
     "Next 공식/Dynamic Router.md",
     "Next 공식/useRouter.md",
     "Next 공식/Linking and Navigating.md",
-    "Next 공식/Intercepting Routes.md",
-    "Next 공식/무제 파일.md",
-    "Next 공식/Rouing.md",
-    "Next 공식/Next 공식문서.md",
+    "Next 공식/Pages and Layout.md",
     "Next 공식/Defining Routes.md",
-    "Next 공식/Project Structure.md",
+    "Next 공식/Rouing.md",
     "Next 공식/Parallel Routes.md",
-    "Todolist/2024-01-15.md",
-    "Todolist/2024-01-14.md",
+    "Next 공식/Project Structure.md",
+    "Next 공식/Next 공식문서.md",
+    "templates/zettelkasten.md",
+    "dart/8.  function.md",
+    "Algorithm/1. 브루트포스 (brute force).md",
+    "dart/5. 변수를 사용하는 방법.md",
+    "dart/6. map.md",
+    "dart/4. list.md",
+    "recoil 공식문서",
+    "스크린샷 2024-01-18 오후 9.13.58.png",
     "Next 공식",
     "dart",
     "Algorithm",
