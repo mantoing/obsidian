@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "524ef1380ec42e9b",
+        "id": "94f8b84467a88253",
         "type": "tabs",
         "children": [
           {
-            "id": "7d8d5cd46142e890",
+            "id": "66c348edf58a9b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recoil 공식문서/3. Selector.md",
+                "file": "TodoList만들기/TodoList 만들기-기능구현.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "305c0fd6e3f8b9cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TodoList만들기/TodoList 만들기-localStorage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a5d665b6701f41e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-01-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recoil 공식문서/3. Selector.md",
+                "file": "Todolist/2024-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recoil 공식문서/3. Selector.md",
+                "file": "Todolist/2024-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recoil 공식문서/3. Selector.md"
+                "file": "Todolist/2024-01-26.md"
               }
             }
           },
@@ -167,15 +192,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d8d5cd46142e890",
+  "active": "8a5d665b6701f41e",
   "lastOpenFiles": [
+    "TodoList만들기/TodoList 만들기-localStorage.md",
+    "TodoList만들기/TodoList 만들기 - png로 저장하기.md",
+    "Pasted image 20240126195132.png",
+    "Pasted image 20240126194954.png",
+    "TodoList만들기/TodoList 만들기-기능구현.md",
+    "Todolist/무제 파일.md",
+    "Todolist/2024-01-26.md",
+    "무제 파일.canvas",
+    "TodoList만들기",
+    "Todolist/2024-01-25.md",
     "recoil 공식문서/4. RecoilRoot.md",
     "recoil 공식문서/2. Atoms.md",
     "recoil 공식문서/1. Recoil의 기본개념.md",
     "recoil 공식문서/목차.md",
     "recoil 공식문서/3. Selector.md",
-    "무제 파일.canvas",
-    "Todolist/2024-01-25.md",
     "Todolist/2024-01-04.md",
     "Todolist/2024-01-17.md",
     "Todolist/2024-01-16.md",
@@ -191,10 +224,6 @@
     "Next 공식/Next 공식문서.md",
     "templates/zettelkasten.md",
     "dart/8.  function.md",
-    "Algorithm/1. 브루트포스 (brute force).md",
-    "dart/5. 변수를 사용하는 방법.md",
-    "dart/6. map.md",
-    "dart/4. list.md",
     "recoil 공식문서",
     "스크린샷 2024-01-18 오후 9.13.58.png",
     "Next 공식",
