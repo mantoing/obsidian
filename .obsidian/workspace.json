@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-01-29.md",
+                "file": "Todolist/2024-01-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-01-29.md",
+                "file": "Todolist/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-01-29.md",
+                "file": "Todolist/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-01-29.md"
+                "file": "Todolist/2024-01-30.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "92c0a27a86052aba",
   "lastOpenFiles": [
-    "Todolist/2024-01-28.md",
     "Todolist/2024-01-29.md",
+    "Todolist/2024-01-30.md",
+    "Todolist/2024-01-28.md",
     "Todolist/2024-01-27.md",
     "Css/0. css 포지셔닝.md",
     "무제 파일.canvas",
@@ -224,7 +225,6 @@
     "Next 공식/Linking and Navigating.md",
     "Next 공식/Pages and Layout.md",
     "Next 공식/Defining Routes.md",
-    "Next 공식/Rouing.md",
     "recoil 공식문서",
     "스크린샷 2024-01-18 오후 9.13.58.png",
     "Next 공식",
