@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c2feed53ddd3833f",
+        "id": "6ebd0856cf9fdf31",
         "type": "tabs",
         "children": [
           {
-            "id": "9df032f6cbe2fb0c",
+            "id": "a4219da41822d7b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-02-06.md",
+                "file": "리액트의 가상DOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "957f12da7928a730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-02-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-02-06.md",
+                "file": "Todolist/2024-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-02-06.md",
+                "file": "Todolist/2024-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-02-06.md"
+                "file": "Todolist/2024-02-07.md"
               }
             }
           },
@@ -167,10 +180,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9df032f6cbe2fb0c",
+  "active": "957f12da7928a730",
   "lastOpenFiles": [
-    "Todolist/2024-02-05.md",
     "Todolist/2024-02-06.md",
+    "Todolist/2024-02-07.md",
+    "React Router Dom.md",
+    "리액트의 가상DOM.md",
+    "Todolist/2024-02-05.md",
     "Todolist/2024-02-04.md",
     "Todolist/2024-02-03.md",
     "Todolist/2024-02-02.md",
@@ -191,15 +207,12 @@
     "TodoList만들기/TodoList 만들기-기능구현.md",
     "TodoList만들기/TodoList 만들기 - png로 저장하기.md",
     "Todolist/2024-01-26.md",
-    "Todolist/무제 파일.md",
     "TodoList만들기",
     "Todolist/2024-01-25.md",
     "recoil 공식문서/4. RecoilRoot.md",
     "recoil 공식문서/2. Atoms.md",
     "recoil 공식문서/1. Recoil의 기본개념.md",
     "recoil 공식문서/목차.md",
-    "recoil 공식문서/3. Selector.md",
-    "Todolist/2024-01-04.md",
     "recoil 공식문서",
     "스크린샷 2024-01-18 오후 9.13.58.png",
     "Next 공식",
