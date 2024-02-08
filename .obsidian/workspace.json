@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-02-07.md",
+                "file": "Todolist/2024-02-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-02-07.md",
+                "file": "Todolist/2024-02-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-02-07.md",
+                "file": "Todolist/2024-02-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-02-07.md"
+                "file": "Todolist/2024-02-08.md"
               }
             }
           },
@@ -182,8 +182,23 @@
   },
   "active": "957f12da7928a730",
   "lastOpenFiles": [
-    "Todolist/2024-02-06.md",
     "Todolist/2024-02-07.md",
+    "Todolist/2024-02-08.md",
+    "recoil 공식문서/2. Atoms.md",
+    "recoil 공식문서/1. Recoil의 기본개념.md",
+    "Next 공식/Rouing.md",
+    "Next 공식/Pages and Layout.md",
+    "Next 공식/Linking and Navigating.md",
+    "Next 공식/layout.js.md",
+    "Next 공식/Intercepting Routes.md",
+    "Next 공식/Next 공식문서.md",
+    "Next 공식/useRouter.md",
+    "Next 공식/Project Structure.md",
+    "Next 공식/Defining Routes.md",
+    "Next 공식/Dynamic Router.md",
+    "Next 공식/fetching.md",
+    "Next 공식/Parallel Routes.md",
+    "Todolist/2024-02-06.md",
     "React Router Dom.md",
     "리액트의 가상DOM.md",
     "Todolist/2024-02-05.md",
@@ -193,26 +208,11 @@
     "Todolist/2024-01-31.md",
     "README.md",
     "프롬프트.md",
-    "Todolist/2024-01-30.md",
-    "Todolist/2024-01-29.md",
-    "Todolist/2024-01-28.md",
-    "Todolist/2024-01-27.md",
-    "Css/0. css 포지셔닝.md",
     "무제 파일.canvas",
-    "test.md",
     "Css",
-    "TodoList만들기/TodoList 만들기-localStorage.md",
     "Pasted image 20240126194954.png",
     "Pasted image 20240126195132.png",
-    "TodoList만들기/TodoList 만들기-기능구현.md",
-    "TodoList만들기/TodoList 만들기 - png로 저장하기.md",
-    "Todolist/2024-01-26.md",
     "TodoList만들기",
-    "Todolist/2024-01-25.md",
-    "recoil 공식문서/4. RecoilRoot.md",
-    "recoil 공식문서/2. Atoms.md",
-    "recoil 공식문서/1. Recoil의 기본개념.md",
-    "recoil 공식문서/목차.md",
     "recoil 공식문서",
     "스크린샷 2024-01-18 오후 9.13.58.png",
     "Next 공식",
