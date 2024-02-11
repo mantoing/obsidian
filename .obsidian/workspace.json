@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-02-08.md",
+                "file": "Todolist/2024-02-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-02-08.md",
+                "file": "Todolist/2024-02-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-02-08.md",
+                "file": "Todolist/2024-02-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-02-08.md"
+                "file": "Todolist/2024-02-11.md"
               }
             }
           },
@@ -182,8 +182,11 @@
   },
   "active": "957f12da7928a730",
   "lastOpenFiles": [
-    "Todolist/2024-02-07.md",
+    "Todolist/2024-02-09.md",
+    "Todolist/2024-02-11.md",
+    "리액트의 가상DOM.md",
     "Todolist/2024-02-08.md",
+    "Todolist/2024-02-07.md",
     "recoil 공식문서/2. Atoms.md",
     "recoil 공식문서/1. Recoil의 기본개념.md",
     "Next 공식/Rouing.md",
@@ -200,14 +203,11 @@
     "Next 공식/Parallel Routes.md",
     "Todolist/2024-02-06.md",
     "React Router Dom.md",
-    "리액트의 가상DOM.md",
     "Todolist/2024-02-05.md",
     "Todolist/2024-02-04.md",
     "Todolist/2024-02-03.md",
     "Todolist/2024-02-02.md",
     "Todolist/2024-01-31.md",
-    "README.md",
-    "프롬프트.md",
     "무제 파일.canvas",
     "Css",
     "Pasted image 20240126194954.png",
