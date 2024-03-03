@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-02-21.md",
+                "file": "Todolist/2024-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-02-21.md",
+                "file": "Todolist/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-02-21.md",
+                "file": "Todolist/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-02-21.md"
+                "file": "Todolist/2024-03-04.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "6194780e303ae2cf",
   "lastOpenFiles": [
-    "Todolist/2024-02-20.md",
+    "Todolist/2024-03-03.md",
+    "Todolist/2024-03-04.md",
     "Todolist/2024-02-21.md",
+    "Todolist/2024-02-20.md",
     "Todolist/2024-02-18.md",
     "Todolist/2024-02-16.md",
     "Todolist/2024-02-15.md",
@@ -193,8 +195,6 @@
     "Next 공식/useRouter.md",
     "Next 공식/Project Structure.md",
     "Next 공식/Defining Routes.md",
-    "Next 공식/Dynamic Router.md",
-    "Next 공식/fetching.md",
     "무제 파일.canvas",
     "Css",
     "Pasted image 20240126194954.png",
