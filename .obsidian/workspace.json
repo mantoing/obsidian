@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3be7761c2aa92c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-03-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todolist/2024-03-04.md",
+                "file": "Todolist/2024-03-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todolist/2024-03-04.md",
+                "file": "Todolist/2024-03-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todolist/2024-03-04.md"
+                "file": "Todolist/2024-03-08.md"
               }
             }
           },
@@ -167,8 +180,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6194780e303ae2cf",
+  "active": "3be7761c2aa92c54",
   "lastOpenFiles": [
+    "Todolist/2024-03-08.md",
     "Todolist/2024-03-03.md",
     "Todolist/2024-03-04.md",
     "Todolist/2024-02-21.md",
@@ -194,7 +208,6 @@
     "Next 공식/Next 공식문서.md",
     "Next 공식/useRouter.md",
     "Next 공식/Project Structure.md",
-    "Next 공식/Defining Routes.md",
     "무제 파일.canvas",
     "Css",
     "Pasted image 20240126194954.png",
