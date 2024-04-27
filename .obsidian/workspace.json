@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "febric.js/Introduction to Fabric.js. Part 1..md",
+                "file": "Todolist/2024-04-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40bc415ceedc73c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs/IPC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "febric.js/Introduction to Fabric.js. Part 1..md",
+                "file": "cs/IPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "febric.js/Introduction to Fabric.js. Part 1..md",
+                "file": "cs/IPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "febric.js/Introduction to Fabric.js. Part 1..md"
+                "file": "cs/IPC.md"
               }
             }
           },
@@ -180,8 +192,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8684bf78c92fe0e5",
+  "active": "40bc415ceedc73c3",
   "lastOpenFiles": [
+    "스크린샷 2024-04-28 오전 7.40.15.png",
+    "Pasted image 20240428051256.png",
+    "Pasted image 20240428045622.png",
+    "Todolist/2024-04-28.md",
+    "cs/IPC.md",
+    "Todolist/무제 파일 1.md",
+    "Todolist/무제 파일 2.md",
+    "cs",
+    "Todolist/2024-04-27.md",
+    "febric.js/Introduction to Fabric.js. Part 1..md",
     "Pasted image 20240419182625.png",
     "Pasted image 20240419182046.png",
     "Pasted image 20240419181608.png",
@@ -189,7 +211,6 @@
     "Pasted image 20240419180936.png",
     "Pasted image 20240419180655.png",
     "febric.js/Febric.js 튜토리얼.md",
-    "febric.js/Introduction to Fabric.js. Part 1..md",
     "Next 공식/Linking and Navigating.md",
     "Next 공식/fetching.md",
     "Next 공식/Dynamic Router.md",
@@ -208,26 +229,17 @@
     "recoil 공식문서/1. Recoil의 기본개념.md",
     "Next 공식/라우터 푸시.md",
     "Next 공식/Defining Routes.md",
-    "Todolist/무제 파일.md",
     "Todolist/2024-04-05.md",
     "스토리북",
     "Todolist/2024-03-11.md",
     "Todolist/2024-03-08.md",
-    "Todolist/2024-03-03.md",
-    "Todolist/2024-03-04.md",
-    "Todolist/2024-02-21.md",
-    "Todolist/2024-02-20.md",
     "무제 파일.canvas",
     "Css",
-    "Pasted image 20240126194954.png",
-    "Pasted image 20240126195132.png",
     "TodoList만들기",
     "recoil 공식문서",
-    "스크린샷 2024-01-18 오후 9.13.58.png",
     "Next 공식",
     "dart",
     "Algorithm",
-    "Next.js 기본강의",
-    "templates"
+    "Next.js 기본강의"
   ]
 }

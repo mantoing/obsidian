@@ -290,7 +290,8 @@ circle instanceof fabric.Object; // true
 
 이제 객체를 자세히 다루어 보았으니, 켄버스로 다시 돌아가 보자
 
-모든 Febric의 예제에서 캔버스 객체를 생성했을때 가장먼저 볼수있는 것은 `new fabric.Canvas('...')` 이다.  **febric.canvas** 는 <canvas> 요소로 감싸져있고 보호하면서 모든 페브릭 객체를 합리적으로 관리한다.
+모든 Febric의 예제에서 캔버스 객체를 생성했을때 가장먼저 볼수있는 것은 `new fabric.Canvas('...')` 이다.  **febric.canvas** 는 `<canvas>` 요소 주변의 포장지 역할을 하며 특정 캔버스의 객체를 관리한다. 요소의 id를 사용하고 `febric.Canvas`의 인스턴스를 반환한다.
+
 
 ---
 ### 생각(파생된 질문/생각)
