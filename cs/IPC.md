@@ -189,8 +189,7 @@ int main() {
 
 #### Message Queue
 ---
-
-![[스크린샷 2024-04-28 오전 7.40.15.png]]
+![[스크린샷 2024-04-28 오후 7.23.29.png]]
 
 > 공유 메모리가 데이터 자체를 공유하도록 지원하는 설비
 
@@ -289,7 +288,277 @@ int main() {
 ---
 > 프로세스 간 데이터를 동기화하고 보호하는데 그 목적이 있다.
 
+**특징**
 
+ 정수형 변수로, 공유 자원의 접근을 제어하기 위해 사용된다.
+ 값이 양수인 경우에는 자원에 대한 접근을 허용하고, 값이 음수인 경우에는 자원에 대한 접근을 차단한다.
+ 1. ***동기화***: 세마포어를 사용하여 프로세스나 스레드 간의 동기화를 가능하게 한다.
+ 2. ***상호배제*** : 세마포어를 사용하여 공유 자원에 대한 상호 배제를 구현할 수 있다.
+ 3. ***차단*** : 세마포어 값이 0 이하인 경우, 대기 상태로 전환하여 프로세스나 스레드를 차단시킨다.
+
+**장점**
+
+- ***유연성*** : 세마포어는 다양한 상황에서 사용할 수 있으며, 동기화 문제를 해결하는 데 유용하다.
+- ***확장성*** : 세마포어를 조합하여 복잡한 동기화 문제를 해결할 수 있다.
+- ***효율성*** : 세마포어는 간단한 연산으로 구현되어 있어서 상대적으로 효율적이다.
+
+**단점**
+
+- ***DeadLock*** : 잘못된 사용으로 인해 데드락이 발생할 수 있다. 즉, 프로세스나 스레드 간의 상호배제로 인해 상태가 무한히 대기하는 상황이 발생할 수 있다.
+- ***변수 공유 문제*** : 세마포어를 사용하여 변수를 공유하는 경우, 경쟁 조건이 발생할 수 있다. 즉, 변수의 일관성이 깨질 수 있다.
+
+#### 뮤텍스와 세마포어의 차이 ? 
+
+**뮤텍스**
+
+> 상호 배제를 위한 동기화 기법으로, 한 번에 하나의 스레드만이 공유자원에 접근할 수 있도록 보장한다. 이진 상태를 가지며, 잠금과 해제연산을 통해 공유 자원의 안전한 접근을 보장한다. 주로 다중 스레드 환경에서 공유 자원에 대한 안전한 접근을 위해 사용된다.
+
+**뮤텍스와 세마포어의 차이**
+
+| 특성      | 뮤텍스                       | 세마포어                         |
+| ------- | ------------------------- | ---------------------------- |
+| 타입      | 이진 세마포어(Binary Semaphore) | 카운팅 세마포어(Counting Semaphore) |
+| 값       | 0 또는 1                    | 0 이상의 정수                     |
+| 사용 용도   | 상호배제(Mutual Exclusion)    | 상호배제 및 동기화(Synchronization)  |
+| 대기 큐 관리 | FIFO(First-In-First-Out)  | FIFO 또는 우선순위 기반              |
+| 잠금 해제   | Lock() 및 Unlock() 함수 사용   | P() 및 V() 함수 사용              |
+| 리소스 공유  | 단일 리소스에 사용                | 여러 리소스에 사용 가능                |
+| 초기값     | 잠금(1)                     | 사용 가능한 리소스 수                 |
+| 사용 예시   | 스레드 간의 상호배제               | 프로세스 간의 동기화, 자원 관리           |
+| 구현      | 주로 플랫폼 또는 라이브러리 제공        | 주로 운영 체제에 의해 제공              |
+
+#### Shared Memory(공유 메모리)
+
+![[스크린샷 2024-04-28 오전 7.40.15.png]]
+
+> 두 개 이상의 프로세스가 같은 메모리 영역을 공유하여 데이터를 주고 받는다.
+
+**특징** 
+
+하나의 프로세스가 생성한 메모리 영역을 다른 프로세스가 접근하여 데이터를 공유하는 기법이다. 메모리 영역은 특정 파일 시스템에 존재하지 않고, 각 프로세스의 주소 공간에 매핑되어 있다.
+
+- ***효율성*** : 데이터를 복사하지 않고 메모리를 공유하기 때문에 데이터 교환에 효율적이다.
+- ***빠른 속도*** : 메모리에 직접 접근하기 때문에 다른 IPC 메커니즘보다 빠른 속도를 제공한다.
+- ***간편한 구현*** : 시스템 호출을 통해 간단하게 공유 메모리를 설정하고 사용할 수 있다.
+
+**장점** 
+
+- ***높은 성능*** : 메모리를 직접 공유하기 떄문에 다른 IPC 매커니즘에 비해 높은 성능을 제공한다.
+- ***간편한 통신*** : 별도의 데이터 복사 과정 없이 메모리를 공유하기 때문에 통신이 간편하다.
+
+**단점**
+
+- ***동기화 문제*** : 여러 프로세스가 동시에 메모리를 수정할 수 있으므로 공기화 문제가 발생할 수 있다.
+- ***보안 문제*** : 메모리를 공유하기 때문에 보안이 취약할 수 있으며, 신뢰할 수 없는 프로세스로부터 공격을 받을 수 있다.
+
+효율적인 데이터 교환을 위해 주로 사용되지만, 동기화와 보안 문제에 대한 고려가 필요하다.
+
+**예제** 
+
+```c
+#include <sys/ipc.h>
+
+#include <sys/shm.h>
+
+#include <unistd.h>
+
+#include <stdlib.h>
+
+#include <stdio.h>
+
+#include <string.h>
+
+#include <errno.h>
+
+  
+
+int main(int ac, char **av) {
+
+int shmid;
+
+int *num;
+
+key_t key;
+
+void *shmp = NULL;
+
+key = 0x20211013;
+
+shmid = shmget(key, 0, 0666 | IPC_EXCL);
+
+if (shmid == -1) {
+
+Logout(INFOR , "%06x shared memory 없음", key);
+
+if ((shmid=shmget(key,sizeof(int), IPC_CREAT|0666)) == -1) {
+
+Logout(ERROR, "shmget failed:%s\n", strerror(errno));
+
+exit(0);
+
+}
+
+}
+
+if((shmp = shmat(shmid, NULL, 0)) == (void *)-1) {
+
+Logout(ERROR, "shmat failed: %s\n", strerror(errno));
+
+exit(0);
+
+}
+
+num=(int *)shmp;
+
+(*num)++;
+
+Logout(INFOR, "shared memory value : %d\n", (*num));
+
+  
+
+shmdt(shmp);
+
+}
+```
+
+
+#### Memory Map (메모리 맵)
+---
+
+> 파일이나 장치를 메모리 주소 공간에 매핑하는 것을 의미 한다.
+
+
+**특징**
+
+파일이나 장치와 메모리 간의 매핑을 제공하는 기술, 파일이나 장치를 메모리에 직접 매핑하여 접근할 수 있도록 한다.
+
+1. ***파일 접근*** : 파일을 메모리에 매핑하여 파일을 읽고 쓸 수 있다.
+2. ***장치 접근*** : 장치를 메모리에 매핑하여 디바이스 드라이버와 직접 통신할 수 있다.
+3. ***간편한 접근*** : 매핑된 메모리는 포인터를 통해 일반 메모리처럼 접근할 수 있어 편리하다.
+
+**장점** 
+
+- ***빠른 접근*** : 메모리 매핑을 통해 파일이나 장치에 직접 접근하여 데이터를 읽고 쓸 수 있어 빠른 속도를 제공한다.
+- ***간편한 인터페이스*** : 포인터를 통해 메모리에 접근하기 때문에 별도의 파일 또는 장치 입출력 함수가 필요하지 않다.
+
+**단점**
+
+- ***제한된 용량*** : 시스템의 가용한 메모리 용량에 제한이 있으므로 매핑할 수 있는 파일 크기가 제한될 수 있다.
+- ***보안 문제*** : 메모리 매핑을 통해 파일에 대한 직접 접근이 가능하기 때문에 보안에 취약할 수 있다.
+
+**예제**
+
+```c
+#include <stdio.h>
+
+#include <stdlib.h>
+
+#include <sys/stat.h>
+
+#include <fcntl.h>
+
+#include <sys/types.h>
+
+#include <sys/mman.h>
+
+#define MAP_NAME "./MAP_FILE"
+
+typedef struct _ORD{
+
+int type;
+
+double prc;
+
+double qty;
+
+}ORD;
+
+  
+
+int main(int ac, char **av) {
+
+int fd;
+
+ORD *pord;
+
+void *map;
+
+size_t size;
+
+fd = open(MAP_NAME, O_RDWR | O_CREAT, 0666);
+
+size = sizeof(ORD) * 1000 -1;
+
+lseek(fd, size, SEEK_SET);
+
+write(fd, "", 1);
+
+close(fd);
+
+  
+
+fd = open(MAP_NAME, O_RDWR);
+
+map = mmap(NULL, size, PROT_WRITE | PROT_READ, MAP_SHARED, fd, 0);
+
+close(fd);
+
+  
+
+munmap(map, size);
+
+}
+```
+
+```c
+#include <stdio.h>
+
+#include <stdlib.h>
+
+#include <sys/stat.h>
+
+#include <fcntl.h>
+
+#include <sys/types.h>
+
+#include <sys/mman.h>
+
+#define MAP_NAME "./MAP_FILE"
+
+typedef struct _ORD{
+
+int type;
+
+double prc;
+
+double qty;
+
+}ORD;
+
+  
+
+int main(int ac, char **av) {
+
+int fd;
+
+ORD *pord;
+
+void *map;
+
+size_t size;
+
+fd = open(MAP_NAME, O_RDWR);
+
+map = mmap(NULL, size, PROT_WRITE | PROT_READ, MAP_SHARED, fd, 0);
+
+close(fd);
+
+  
+
+munmap(map, size);
+
+}
+```
 
 
 ---
