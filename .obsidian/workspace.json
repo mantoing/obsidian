@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todolist/2024-04-28.md",
+                "file": "Todolist/2024-07-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36c729ebeba148a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42과제 블로그 정리/Get_Next_Line.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,11 +47,9 @@
             "id": "40bc415ceedc73c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "cs/IPC.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240419181608.png"
               }
             }
           }
@@ -94,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "21627e33ba2ac3de",
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs/IPC.md",
+                "file": "42과제 블로그 정리/Get_Next_Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs/IPC.md",
+                "file": "42과제 블로그 정리/Get_Next_Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs/IPC.md"
+                "file": "42과제 블로그 정리/Get_Next_Line.md"
               }
             }
           },
@@ -192,54 +203,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "40bc415ceedc73c3",
+  "active": "36c729ebeba148a1",
   "lastOpenFiles": [
+    "recoil 공식문서/2. Atoms.md",
+    "recoil 공식문서/1. Recoil의 기본개념.md",
+    "42과제 블로그 정리/Get_Next_Line.md",
+    "recoil 공식문서/4. RecoilRoot.md",
+    "febric.js/Introduction to Fabric.js. Part 1..md",
+    "febric.js/Febric.js 튜토리얼.md",
+    "dart/9.  Dart Class.md",
+    "dart/5. 변수를 사용하는 방법.md",
+    "dart/4. list.md",
+    "dart/3. 다트의 자료형.md",
+    "dart/1. 다트의 컴파일러.md",
+    "무제 파일.canvas",
+    "Todolist/2024-07-03.md",
+    "42과제 블로그 정리",
+    "Todolist/2024-05-31.md",
+    "Todolist/2024-05-28.md",
+    "Todolist/2024-06-06.md",
+    "Todolist/2024-05-21.md",
+    "Todolist/2024-05-05.md",
+    "Todolist/2024-05-12.md",
+    "Todolist/2024-05-13.md",
+    "Todolist/2024-04-28.md",
+    "Pasted image 20240419181608.png",
+    "cs/IPC.md",
+    "Todolist/2024-04-30.md",
     "스크린샷 2024-04-28 오후 7.23.29.png",
     "스크린샷 2024-04-28 오전 7.40.15.png",
     "Pasted image 20240428051256.png",
     "Pasted image 20240428045622.png",
-    "Todolist/2024-04-28.md",
-    "cs/IPC.md",
     "Todolist/무제 파일 1.md",
     "Todolist/무제 파일 2.md",
     "cs",
     "Todolist/2024-04-27.md",
-    "febric.js/Introduction to Fabric.js. Part 1..md",
     "Pasted image 20240419182625.png",
     "Pasted image 20240419182046.png",
-    "Pasted image 20240419181608.png",
     "Pasted image 20240419181243.png",
     "Pasted image 20240419180936.png",
     "Pasted image 20240419180655.png",
-    "febric.js/Febric.js 튜토리얼.md",
     "Next 공식/Linking and Navigating.md",
-    "Next 공식/fetching.md",
-    "Next 공식/Dynamic Router.md",
-    "Todolist/2024-04-19.md",
-    "Pasted image 20240405012412.png",
-    "스토리북/3. Next.js를 위한 스토리북.md",
-    "스토리북/2. storybook 뿌수기~! 왜 스토리북일까 ?.md",
-    "스토리북/1. storybook 뿌수기~! 스토리북 시작하기..md",
     "febric.js",
-    "스토리북/0. 스토리북이란?.md",
-    "스토리북/목차.md",
-    "dart/2. 다트의 변수.md",
-    "dart/8.  function.md",
-    "dart/0. 목차.md",
-    "recoil 공식문서/1. Recoil의 기본개념.md",
-    "Next 공식/라우터 푸시.md",
-    "Next 공식/Defining Routes.md",
-    "Todolist/2024-04-05.md",
     "스토리북",
-    "Todolist/2024-03-11.md",
-    "Todolist/2024-03-08.md",
-    "무제 파일.canvas",
     "Css",
     "TodoList만들기",
     "recoil 공식문서",
     "Next 공식",
     "dart",
-    "Algorithm",
-    "Next.js 기본강의"
+    "Algorithm"
   ]
 }
