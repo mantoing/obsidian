@@ -44,6 +44,66 @@
             }
           },
           {
+            "id": "814df64014eefb05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42과제 블로그 정리/ft_printf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bc6e061ca51a987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-07-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e605fe512c0902db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todolist/2024-07-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff8249c05fc7b0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react-native/react-native 개념.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b126456e19c0eeb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react-native/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "40bc415ceedc73c3",
             "type": "leaf",
             "state": {
@@ -54,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -121,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42과제 블로그 정리/Get_Next_Line.md",
+                "file": "react-native/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42과제 블로그 정리/Get_Next_Line.md",
+                "file": "react-native/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42과제 블로그 정리/Get_Next_Line.md"
+                "file": "react-native/무제 파일.md"
               }
             }
           },
@@ -203,14 +263,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36c729ebeba148a1",
+  "active": "b126456e19c0eeb5",
   "lastOpenFiles": [
+    "스크린샷 2024-07-24 오후 5.05.45.png",
+    "react-native/react-native 개념.md",
+    "Todolist/2024-07-24.md",
+    "React Router Dom.md",
+    "Pasted image 20240419182625.png",
+    "Pasted image 20240428045622.png",
+    "Pasted image 20240428051256.png",
+    "Pasted image 20240419180655.png",
+    "Pasted image 20240405012412.png",
+    "프롬프트.md",
+    "스크린샷 2024-07-16 오후 1.32.22.png",
+    "스크린샷 2024-07-16 오후 1.23.57.png",
+    "react-native/무제 파일.md",
+    "Todolist/2024-07-19.md",
+    "febric.js/Febric.js 튜토리얼.md",
+    "Todolist/2024-07-17.md",
+    "스크린샷 2024-07-16 오후 2.07.36.png",
+    "스크린샷 2024-07-16 오후 1.22.43.png",
+    "스크린샷 2024-07-16 오후 1.16.56.png",
+    "Todolist/2024-07-16.md",
+    "react-native",
+    "42과제 블로그 정리/ft_printf.md",
+    "Todolist/2024-07-05.md",
+    "42과제 블로그 정리/Get_Next_Line.md",
     "recoil 공식문서/2. Atoms.md",
     "recoil 공식문서/1. Recoil의 기본개념.md",
-    "42과제 블로그 정리/Get_Next_Line.md",
     "recoil 공식문서/4. RecoilRoot.md",
     "febric.js/Introduction to Fabric.js. Part 1..md",
-    "febric.js/Febric.js 튜토리얼.md",
     "dart/9.  Dart Class.md",
     "dart/5. 변수를 사용하는 방법.md",
     "dart/4. list.md",
@@ -222,35 +304,13 @@
     "Todolist/2024-05-31.md",
     "Todolist/2024-05-28.md",
     "Todolist/2024-06-06.md",
-    "Todolist/2024-05-21.md",
-    "Todolist/2024-05-05.md",
-    "Todolist/2024-05-12.md",
-    "Todolist/2024-05-13.md",
-    "Todolist/2024-04-28.md",
-    "Pasted image 20240419181608.png",
-    "cs/IPC.md",
-    "Todolist/2024-04-30.md",
-    "스크린샷 2024-04-28 오후 7.23.29.png",
-    "스크린샷 2024-04-28 오전 7.40.15.png",
-    "Pasted image 20240428051256.png",
-    "Pasted image 20240428045622.png",
-    "Todolist/무제 파일 1.md",
-    "Todolist/무제 파일 2.md",
     "cs",
-    "Todolist/2024-04-27.md",
-    "Pasted image 20240419182625.png",
-    "Pasted image 20240419182046.png",
-    "Pasted image 20240419181243.png",
-    "Pasted image 20240419180936.png",
-    "Pasted image 20240419180655.png",
-    "Next 공식/Linking and Navigating.md",
     "febric.js",
     "스토리북",
     "Css",
     "TodoList만들기",
     "recoil 공식문서",
     "Next 공식",
-    "dart",
-    "Algorithm"
+    "dart"
   ]
 }
